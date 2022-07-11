@@ -38,8 +38,17 @@ I solve 5-6 questions a day of Leetcode/day. Here are my solutions to the [Leetc
 
 ### Day 6
 
-18) [197.Rising Temperature]
-19) [607.Sales Person]
+18) [197.Rising Temperature](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/197.%20Rising%20Temperature.sql)
+19) [607.Sales Person](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/607.%20Sales%20Person.sql)
+
+### Day 7
+
+20) [1141.User Activity for the Past 30 Days I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)
+21) [1693.Daily Leads and Partners](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1693.%20Daily%20Leads%20and%20Partners.sql)
+22) [1729.Find Followers Count](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1729.%20Find%20Followers%20Count.sql)
+
+### Day 8
+
 
 
 
