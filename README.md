@@ -49,6 +49,27 @@ I solve 5-6 questions a day of Leetcode/day. Here are my solutions to the [Leetc
 
 ### Day 8
 
+23) [586. Customer Placing the Largest Number of Orders](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
+24) [511. Game Play Analysis I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/511.%20Game%20Play%20Analysis%20I.sql)
+25) [1890. The Latest Login in 2020](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1890.%20The%20Latest%20Login%20in%202020.sql)
+26) [1741. Find Total Time Spent by Each Employee]()
+
+### Day 9
+
+27) [1393. Capital Gain/Loss](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
+28) [1407. Top Travellers](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1407.%20Top%20Travellers.sql)
+29) [1158. Market Analysis I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1158.%20Market%20Analysis%20I.sql)
+
+### Day 10
+
+30) [182. Duplicate Emails](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/182.%20Duplicate%20Emails.sql)
+31) [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql)
+32) [1587. Bank Account Summary II](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1587.%20Bank%20Account%20Summary%20II.sql)
+33) [1084. Sales Analysis III](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1084.%20Sales%20Analysis%20III.sql)
+
+
+
+
 
 
 
