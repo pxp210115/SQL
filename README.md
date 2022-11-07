@@ -7,7 +7,7 @@ I solve 5-6 questions a day of SQL. Here are my solutions to numerous free resou
 2) [Statascratch]()
 3) [Data Lemur]()
 
-## Leetcode:-
+# [Leetcode](https://leetcode.com/):-
 
 | S.no | SQL Question                                                                                                                                                         |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -35,22 +35,25 @@ I solve 5-6 questions a day of SQL. Here are my solutions to numerous free resou
 | 19.   | [607.Sales Person](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/607.%20Sales%20Person.sql)                                                                                                     | `MULTIPLE SUB-QUERY`            |
 | 20.  | [1141.User Activity for the Past 30 Days I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1141.%20User%20Activity%20for%20the%20Past%2030%20Days%20I.sql)                                       | `GROUP BY`                      |
 
+| S.no | SQL Question                                                                                                                                                                                      | Clauses Used                     |
+|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| 21.   | [1693.Daily Leads and Partners](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1693.%20Daily%20Leads%20and%20Partners.sql)                                                | `GROUP BY`                       |
+| 22.   | [1729.Find Followers Count](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1729.%20Find%20Followers%20Count.sql)                                                          | `GROUP BY`                       |
+| 23.   | [586. Customer Placing the Largest Number of Orders](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql) | `SUB-QUERY IN SELECT` `GROUP BY` |
+| 24.   | [511. Game Play Analysis I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/511.%20Game%20Play%20Analysis%20I.sql)                                                         | `GROUP BY`                       |
+| 25.   | [1890. The Latest Login in 2020](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1890.%20The%20Latest%20Login%20in%202020.sql)                                             | `LIKE` `GROUP BY`                |
+| 26.   | [1741. Find Total Time Spent by Each Employee]()                                                                                                                                                  | `DML`                            |
+| 27.   | [1393. Capital Gain/Loss](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)                            | `GROUP BY`                       |
+| 28.   | [1407. Top Travellers](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1407.%20Top%20Travellers.sql)                                                                       | `LEFT JOIN` `GROUP BY`           |
+| 29.   | [1158. Market Analysis I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1158.%20Market%20Analysis%20I.sql)                                                               | `SUM (CASE..WHEN..)` `GROUP BY`  |
+| 30.  | [182. Duplicate Emails](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/182.%20Duplicate%20Emails.sql)                                                                     | `GROUP BY` `HAVING`              |
 
-### Questions 21 - 30:
-21) [1693.Daily Leads and Partners](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1693.%20Daily%20Leads%20and%20Partners.sql)
-22) [1729.Find Followers Count](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1729.%20Find%20Followers%20Count.sql)
-23) [586. Customer Placing the Largest Number of Orders](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
-24) [511. Game Play Analysis I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/511.%20Game%20Play%20Analysis%20I.sql)
-25) [1890. The Latest Login in 2020](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1890.%20The%20Latest%20Login%20in%202020.sql)
-26) [1741. Find Total Time Spent by Each Employee]()
-27) [1393. Capital Gain/Loss](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/586.%20Customer%20Placing%20the%20Largest%20Number%20of%20Orders.sql)
-28) [1407. Top Travellers](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1407.%20Top%20Travellers.sql)
-29) [1158. Market Analysis I](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1158.%20Market%20Analysis%20I.sql)
-30) [182. Duplicate Emails](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/182.%20Duplicate%20Emails.sql)
+| S.no | SQL Question                                                                                                                                                                                                                  | Clauses Used               |
+|------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| 31.  | [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql) | `GROUP BY` `HAVING`        |
+| 32.  | [1587. Bank Account Summary II](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1587.%20Bank%20Account%20Summary%20II.sql)                                                                             | `FULL JOIN` `GROUP BY`     |
+| 33.  | [1084. Sales Analysis III](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/Leetcode/1084.%20Sales%20Analysis%20III.sql)                                                                                         | `FULL JOIN` `BETWEEN..AND` |
 
-### Queestions 31 - 40:
-31) [1050. Actors and Directors Who Cooperated At Least Three Times](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1050.%20Actors%20and%20Directors%20Who%20Cooperated%20At%20Least%20Three%20Times.sql)
-32) [1587. Bank Account Summary II](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1587.%20Bank%20Account%20Summary%20II.sql)
-33) [1084. Sales Analysis III](https://github.com/pxp210115/SQL-Leetcode-Solutions/blob/main/1084.%20Sales%20Analysis%20III.sql)
+# [StrataScratch](https://www.stratascratch.com/):-
 
 
