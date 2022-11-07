@@ -65,9 +65,9 @@ Output:
 | Alice      | 11000      |
 +------------+------------+
 Explanation: 
-Alice's balance is (7000 + 7000 - 3000) = 11000.
-Bob's balance is 1000.
-Charlie's balance is (6000 + 6000 - 4000) = 8000.
+Alices balance is (7000 + 7000 - 3000) = 11000.
+Bobs balance is 1000.
+Charlies balance is (6000 + 6000 - 4000) = 8000.
 
 My Solution:-
 
