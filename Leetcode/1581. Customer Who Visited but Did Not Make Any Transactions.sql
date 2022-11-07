@@ -74,3 +74,8 @@ As we can see, users with IDs 30 and 96 visited the mall one time without making
 
 My Solution:-
 
+SELECT customer_id, COUNT(*) as count_no_trans
+FROM Visits
+WHERE visit_id NOT IN (SELECT DISTINCT visit_id FROM Transactions)
+GROUP BY customer_id;
+
